@@ -1,14 +1,14 @@
 {
-  "latestVersion": "1.0",
-  "latestVersionCode": "1",
-  "url": "",
+  "latestVersion": "1.1",
+  "latestVersionCode": "2",
+  "url": "http://kingotv.net/apk/KingoTV_(TV-Firestick)_v1.1.apk",
   "releaseNotes": [
     "Please update the app in order to start enjoying the content!",
     " ",
     "Changelogs:",
     " ",
-    "[Update] Update",
-    "[Fix] Fixed",
-    "[Add] Added"
+    "[Update] Changed A Few UI Elements",
+    "[Fix] Fixed Remote Navigation Not Working In FireOS & Android 5 TVs",
+    "[Fix] Fixed Bugs"
   ]
 }
